@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenshotSaver", "ScreenshotSaver\ScreenshotSaver.csproj", "{675FC67C-AA02-4C03-B793-21AEC5F69968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{675FC67C-AA02-4C03-B793-21AEC5F69968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675FC67C-AA02-4C03-B793-21AEC5F69968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675FC67C-AA02-4C03-B793-21AEC5F69968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675FC67C-AA02-4C03-B793-21AEC5F69968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12D85563-5312-4517-8856-AB0C8D17F096}
+	EndGlobalSection
+EndGlobal

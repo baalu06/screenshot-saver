@@ -1,0 +1,10 @@
+C:\Users\baalu\source\repos\ScreenshotSaver\ScreenshotSaver\bin\Debug\ScreenshotSaver.exe.config
+C:\Users\baalu\source\repos\ScreenshotSaver\ScreenshotSaver\bin\Debug\ScreenshotSaver.exe
+C:\Users\baalu\source\repos\ScreenshotSaver\ScreenshotSaver\bin\Debug\ScreenshotSaver.pdb
+C:\Users\baalu\source\repos\ScreenshotSaver\ScreenshotSaver\obj\Debug\ScreenshotSaver.csprojAssemblyReference.cache
+C:\Users\baalu\source\repos\ScreenshotSaver\ScreenshotSaver\obj\Debug\ScreenshotSaver.Form1.resources
+C:\Users\baalu\source\repos\ScreenshotSaver\ScreenshotSaver\obj\Debug\ScreenshotSaver.Properties.Resources.resources
+C:\Users\baalu\source\repos\ScreenshotSaver\ScreenshotSaver\obj\Debug\ScreenshotSaver.csproj.GenerateResource.cache
+C:\Users\baalu\source\repos\ScreenshotSaver\ScreenshotSaver\obj\Debug\ScreenshotSaver.csproj.CoreCompileInputs.cache
+C:\Users\baalu\source\repos\ScreenshotSaver\ScreenshotSaver\obj\Debug\ScreenshotSaver.exe
+C:\Users\baalu\source\repos\ScreenshotSaver\ScreenshotSaver\obj\Debug\ScreenshotSaver.pdb
